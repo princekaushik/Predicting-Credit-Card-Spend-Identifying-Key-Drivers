@@ -5,31 +5,31 @@ The objective of this case study is to understand what's driving the total spend
 
 
 ## Data Availability:
- Data for the case are available in xlsx format.
- The data have been provided for 5000 customers.
- Detailed data dictionary has been provided for understanding the data in the data.
- Data is encoded in the numerical format to reduce the size of the data however some of the variables are categorical. You can find the details in the data dictionary.
+* Data for the case are available in xlsx format.
+* The data have been provided for 5000 customers.
+* Detailed data dictionary has been provided for understanding the data in the data.
+* Data is encoded in the numerical format to reduce the size of the data however some of the variables are categorical. You can find the details in the data dictionary.
 
 ## Data Prepration
- Exploring Dataset.
- Dealing with Duplicate values, Null Values, Missing values, Outliers.
- Seperating data into Numeric features and Categorical Features.
- Generating Data Audit Report for both Numerical and Categorical 
+* Exploring Dataset.
+* Dealing with Duplicate values, Null Values, Missing values, Outliers.
+* Seperating data into Numeric features and Categorical Features.
+* Generating Data Audit Report for both Numerical and Categorical 
 
 ### EDA
- Box Plot
- Anova test for Variable reduction
+* Box Plot
+* Anova test for Variable reduction
 
 ### Converting Categorical features to numeric for machine learning
- Label Encoder
- Merging both numeric & categorical variable
+* Label Encoder
+* Merging both numeric & categorical variable
 
 ## Machine learning Models
- VIF for variable reduction
- Seperating Data set into Train and Test Dataset
- Random Forest for variable reduction
-** Linear Regression**
-** Lasso**
-** Ridge**
-** ElasticNet**
-** Gradient Boosting**
+* VIF for variable reduction
+* Seperating Data set into Train and Test Dataset
+* Random Forest for variable reduction
+*  Linear Regression
+*  Lasso
+*  Ridge
+* ElasticNet
+* Gradient Boosting
